@@ -9,6 +9,6 @@ const contentCard = 'Chúc bạn có ngày sinh nhật tràn ngập niềm vui v
 
 
 const giftImage = 'hot-girl.png.png';
-const base64 = 'sinh nhật vui vẽ';
+const base64 = 'sinh nhật vui vẽ.';
 const giftImageBase64 = "data:image/png;base64, " + base64;
 
