@@ -1,10 +1,10 @@
-const nameGirl = 'Cục súc';
+const nameGirl = 'Cô Quý';
 const giftUrl = 'http://nodemy.vn';
 
-const eventName = 'Chúc Mừng sinh nhật ';
-const titleCard = 'Tặng cục súc '
+const eventName = 'Chúc Mừng 20-11 ';
+const titleCard = 'Tặng Cô Quý '
 
-const contentCard = 'Chúc bạn có ngày sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
+const contentCard = 'Chúc CÔ có ngày 20/11 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với cô trong hôm nay và cả những ngày sau';
 
 const giftImage = 'hot-girl.png';
 const base64 = '';
